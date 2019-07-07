@@ -17,3 +17,10 @@ xcshareddata
 # Unity
 /Library
 /Temp
+
+# more of Visual Studio
+.vs
+obj
+Logs
+
+
